@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Gabrielle Teixeira
+- 👀 Eu estou aprendendo atualmente a programar no scratch e java script
+- 🌱 Eu tenho curiosidades em aprender sites da Web
+- 💞️ Podem entrar em contato comigo pelo email: aparecida.teixeira@escola.pr.gov.br
